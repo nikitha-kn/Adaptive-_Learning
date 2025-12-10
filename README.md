@@ -107,11 +107,7 @@ python main.py
 
 At session end:
 
-===== SESSION SUMMARY =====
-Student: nikitha
-Accuracy: 75.00%
-Avg Time: 3.12 sec
-Next Recommended Level: 2
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/097e9668-8f46-45ca-9bb5-477829937c86" />
 
 
 ---
