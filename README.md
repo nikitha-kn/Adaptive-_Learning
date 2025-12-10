@@ -96,8 +96,6 @@ Controls the session flow:
 
 ### **Step 1: Install Python 3.8+**
 
-Verify:
-
 ### **Step 2: Run the App**
 cd math-adaptive-prototype/src
 python main.py
