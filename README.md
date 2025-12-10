@@ -1,10 +1,6 @@
 # Adaptive-_Learning
 
-# Create a professional README.md for the adaptive learning project.
 
-readme_path = "/mnt/data/README_ADAPTIVE_LEARNING.md"
-
-content = """
 # 📚 Math Adaptive Learning Prototype  
 AI-Powered Personalized Practice System for Kids (Ages 5–10)
 
