@@ -1,0 +1,32 @@
+Title: Math Adaptive Learning Prototype
+Objective:
+The goal of this prototype is to demonstrate a simple adaptive learning system that adjusts the difficulty of math problems based on a learner’s performance. This helps children (ages 5–10) practice basic addition and subtraction at the right challenge level.
+
+System Architecture:
+The system consists of four main components:
+
+#Puzzle Generator – Creates math problems according to difficulty levels (Easy, Medium, Hard).
+
+#Performance Tracker – Records correctness and response time for each question.
+
+#Adaptive Engine – Uses rule-based logic to increase or decrease difficulty.
+
+#Session Summary – Displays accuracy, average time, and recommended next difficulty.
+
+Adaptive Logic:
+The difficulty level changes according to simple rules:
+
+#2 consecutive correct answers → increase difficulty by 1
+
+#2 consecutive wrong answers → decrease difficulty by 1
+
+Difficulty stays within 1–3
+This keeps the learner in an “optimal challenge zone.”
+
+Metrics Tracked:
+
+#Accuracy percentage
+
+#Average response time
+
+#Difficulty transitions
